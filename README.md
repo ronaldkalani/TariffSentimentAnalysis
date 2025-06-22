@@ -34,7 +34,7 @@ This project performs sentiment analysis on media articles related to Canada-USA
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/canada-usa-tariff-sentiment.git
+   git clone https://github.com/ronaldkalani/TariffSentimentAnalysis.git
    cd canada-usa-tariff-sentiment
 
 2. Install dependencies:
